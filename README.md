@@ -49,6 +49,6 @@ explanation : how to start
   <br>example 1 explanation  
 <br>...
 ---
-
+-- *If this project helped you, a ⭐ would make my day.*
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
