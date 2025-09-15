@@ -5,32 +5,33 @@ English | [日本語](docs/lang/README_JA.md)
 ## 👩‍💻 For Developers *(Jump in quickly)*
 
 * [Contributing Guide](docs/CONTRIBUTING.md)
+  <br>*(Coming Soon)*
 * [Architecture & Flow](docs/ARCHITECTURE.md)
+  <br>*(Coming Soon)*
 * [Changelog](docs/CHANGELOG.md)
-
+  <br>*(Coming Soon)*
 ---
 
 ## 🗑️ Project Name
 
 *A short tagline that explains what the project does.*
 
-Example: "Automatically close inactive tabs to save memory and keep your browser tidy."
-
 ---
 
 ## ✨ Features *(What it does)*
 
 * Key feature 1
+  <br>short feature 1 explanation
 * Key feature 2
+  <br>short feature 2 explanation
 * Key feature 3
-
+  <br>short feature 3 explanation
+<br>...
 ---
 
 ## 🚀 Quick Start
 
-1. Enable Developer Mode in Chrome extensions
-2. Load the folder containing `manifest.json`
-3. Start using right away
+explanation : how to start
 
 ---
 
@@ -43,8 +44,10 @@ Example: "Automatically close inactive tabs to save memory and keep your browser
 
 ## 🛠️ RoadMap *(What's next)*
 - [x] example 1
+  <br>example 1 explanation
 - [ ] example 2
-
+  <br>example 1 explanation  
+<br>...
 ---
 
 ## License
