@@ -5,7 +5,7 @@ labels: ["status: backlog"]
 body:
   - type: markdown
     attributes:
-    value: "## 📃 Basic Information"
+      value: "## 📃 Basic Information"
   - type: dropdown
     id: type
     attributes:
@@ -31,7 +31,7 @@ body:
       description: What needs to be done? Outline details, requirements, or steps.
   - type: markdown
     attributes:
-    value: "## ☄️ If This is a bug report"
+      value: "## ☄️ If This is a bug report"
   - type: textare
     id: reproduction
     attributes:
