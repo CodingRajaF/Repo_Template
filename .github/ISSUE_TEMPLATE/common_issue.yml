@@ -1,0 +1,34 @@
+name: "Issue"
+description: General issue template (feature, bug, chore, etc.)
+title: "[<type>] <short description>"
+labels: ["status: backlog"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - feature
+        - bug
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context / Problem
+      description: Why is this needed? What problem does it solve?
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What needs to be done? Outline details, requirements, or steps.
+  - type: textarea
+    id: done
+    attributes:
+      label: Definition of Done
+      description: What counts as complete? (acceptance criteria)
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes / References
+      description: Links, discussions, or related resources
