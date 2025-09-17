@@ -36,7 +36,7 @@ body:
     id: reproduction
     attributes:
       label: Steps to Reproduce
-      descritpiton: Provide steps to reproduce the bug
+      description: Provide steps to reproduce the bug
   - type: textarea
     id: expected
     attributes:
