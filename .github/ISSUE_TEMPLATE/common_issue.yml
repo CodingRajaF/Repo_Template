@@ -32,7 +32,7 @@ body:
   - type: markdown
     attributes:
       value: "## ☄️ If This is a bug report"
-  - type: textare
+  - type: textarea
     id: reproduction
     attributes:
       label: Steps to Reproduce
