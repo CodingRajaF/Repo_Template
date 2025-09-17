@@ -5,7 +5,7 @@ English | [日本語](docs/lang/README_JA.md)
 ## 👩‍💻 For Developers *(Jump in quickly)*
 
 * [Contributing Guide](docs/dev/CONTRIBUTING.md)
-  <br>*(Coming Soon)*
+
 * [Architecture & Flow](docs/ARCHITECTURE.md)
   <br>*(Coming Soon)*
 * [Changelog](docs/CHANGELOG.md)
