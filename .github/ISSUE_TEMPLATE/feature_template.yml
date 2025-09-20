@@ -1,23 +1,12 @@
-name: "General Issue Template"
-description: General issue template (feature, bug, chore, etc.)
-title: "<short description>"
-labels: ["status: backlog"]
+name: "Feature Issue Template"
+description: Feature issue template
+title: "feat: "
+labels: ["status: backlog","feature"]
 projects: ["My-Projects"]
 body:
   - type: markdown
     attributes:
-      value: "## 📃 Basic Information"
-  - type: dropdown
-    id: type
-    attributes:
-      label: Type
-      options:
-        - feature
-        - bug
-        - question
-        - help wanted
-    validations:
-      required: true
+      value: "## 📃 Information"
   - type: textarea
     id: context
     attributes:
@@ -32,19 +21,6 @@ body:
       description: What needs to be done? Outline details, requirements, or steps.
   - type: markdown
     attributes:
-      value: "## ☄️ If This is a bug report"
-  - type: textarea
-    id: reproduction
-    attributes:
-      label: Steps to Reproduce
-      description: Provide steps to reproduce the bug
-  - type: textarea
-    id: expected
-    attributes:
-      label: Expected vs Actual
-      description: What did you expect vs what actually happend?
-  - type: markdown
-    attributes:
       value: "## ✅ Completion"
   - type: textarea
     id: done
@@ -56,5 +32,3 @@ body:
     attributes:
       label: Notes / References
       description: Links, discussions, or related resources
-
-
