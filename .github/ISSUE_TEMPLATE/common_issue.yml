@@ -1,7 +1,8 @@
 name: "General Issue Template"
 description: General issue template (feature, bug, chore, etc.)
-title: "[<type>] <short description>"
+title: "<short description>"
 labels: ["status: backlog"]
+projects: "My Projects"
 body:
   - type: markdown
     attributes:
