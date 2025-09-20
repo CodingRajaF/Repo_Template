@@ -8,7 +8,7 @@ body:
     attributes:
       value: "## 📃 Information"
   - type: textarea
-    id: enviroment information
+    id: enviroment_information
     attributes:
       label: Your enviroment information
       description: Provide your enviroment information e.g. browser version,
